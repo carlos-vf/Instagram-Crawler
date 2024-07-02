@@ -6,7 +6,7 @@
 - tkinter
 - instaloader
 ```
-pip install tkinter instaloader
+pip install tk instaloader
 ````
 
 ### Run user interface
